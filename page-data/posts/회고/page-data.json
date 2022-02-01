@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/회고",
-    "result": {"pageContext":{"currentCategory":"회고","categories":["All","블로그","featured","프로젝트","회고","웹공부"],"edges":[{"node":{"id":"3430ea7e-da1a-511a-8168-b2244eb7c76b","excerpt":"🤓 이 글의 목적 입사하기 전 한달 조금 넘는 기간 동안 개인 프로젝트를 진행했다. 이 프로젝트는 찐 개인 프로젝트로 기획, 디자인, 개발, 홍보, 유지보수까지 다 직접 진행하여 현재 서비스하고 있다. 이 글을 통해 이 프로젝트의 과정과 경험을 나눠보고자 한다. 🧩 대학시간은..! 대학시간은 수강신청을 도와주는 웹사이트로, 1월 중순에 배포하여 유지보수를 진행하고 있다.  웹사이트 링크 깃헙레포 링크 감사하게도 한학기 학생 수의 절반이 넘는 1600명이 대학시간을 이용했다!🌝 먼저, 개발에 사용한 기술스택은 다음과 같다.  🎨 직접 기획하고 디자인하기 작년 우아한테크캠프에서 만났던 해민이와의 프로젝트 이후에 디자인에 대한 욕심이 생겼고 당시 해민이가 추천해줬던 디자인 레퍼런스 사이트인 Dribbble을 활용해서 웹 디자인에 도전하게 되었다. 💅 디자인 도전기 일단 내 눈을 높여 놓자는 마음으로 이 프로젝트를 기획하는 일주일 동안 Dribbble을 참고해서 눈을 높이는데 집중했다. …","fields":{"slug":"/college-timetable-development/"},"frontmatter":{"categories":"프로젝트 회고","title":"(개인프로젝트 개발 회고) 대학시간 개발기","date":"February 10, 2021"}},"next":{"fields":{"slug":"/atomic-design-pattern/"}},"previous":{"fields":{"slug":"/gatsby-github-blog/"}}}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
